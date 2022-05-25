@@ -4,5 +4,5 @@
 타이머를 통해 생존시간을 확인할 수 있다.
 
 ## 인게임 화면
-<img width="80%" src="https://user-images.githubusercontent.com/31684326/170211973-4b1ad1ae-0fb7-4318-bb1e-0676616a1a80.jpg">   
+<img width="100%" src="https://user-images.githubusercontent.com/31684326/170211973-4b1ad1ae-0fb7-4318-bb1e-0676616a1a80.jpg">   
  
